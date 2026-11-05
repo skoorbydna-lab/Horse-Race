@@ -1,0 +1,6 @@
+{
+  "name": "EquiProb: GCSE Probability Horse Race",
+  "description": "Interactive GCSE Maths horse race simulation teaching sample space diagrams, theoretical vs experimental probability, customizable dice rules, and prediction rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
